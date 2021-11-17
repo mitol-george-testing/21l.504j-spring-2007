@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "African American Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4fbe6790-b04c-ca21-2ce4-732693820517"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Race and Identity in American Literature: Keepin' it Real Fake",
+  "course_description": "This course explores the ways in which various American artists view race and class as performed or performable identities. Discussions will focus on some of the following questions: What does it mean to act black, white, privileged, or underprivileged? What do these artists suggest are the implications of performing (indeed playing at or with) racial identity, ethnicity, gender, and class status? How and why are race and class status often conflated in these performances?\n",
+  "department_numbers": [
+    "21L",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.140J",
+  "primary_course_number": "21L.504J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
